@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Snakis-93
+- 👋 Hi, I’m Osiel Jaimes
 - 👀 I’m interested in ... cyber security     
 - 🌱 I’m currently learning ... IT CyberSecurity    
 - 💞️ I’m looking to collaborate on ... anything willing to learn 
